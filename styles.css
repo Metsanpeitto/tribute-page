@@ -1,5 +1,7 @@
-body {
-  background-color: red;
+#main{position: relative;
+  background-color: rgb(231, 220, 241);
+  text-align: center;
+
 }
 
 img {
